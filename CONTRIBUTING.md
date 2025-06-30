@@ -4,6 +4,16 @@ Thank you for your interest in contributing to ProfileCraft Pro! 🚀
 
 > **⚠️ This project is currently under active development. The codebase, features, and structure may change frequently. Please check back often for updates.**
 
+## 🤗 Open to All!
+
+This project is open for both beginners and advanced developers. Whether you're new to open source or a seasoned contributor, your ideas and code are welcome! We encourage:
+
+- First-time contributors (good first issues are labeled)
+- Experienced developers looking to add features or refactor
+- Documentation, testing, and UI/UX improvements
+
+If you need help getting started, just open an issue or join the discussions!
+
 ## How to Contribute
 
 - **Bug Reports:** Please use [GitHub Issues](https://github.com/profilecraft-pro/readme-generator/issues) to report bugs or request features.

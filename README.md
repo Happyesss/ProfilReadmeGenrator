@@ -1,7 +1,7 @@
-
 # ProfileCraft Pro ✨
 
 > **⚠️ This project is currently under active development. Features, UI, and code structure may change frequently.**
+> **👐 This project is open source and welcomes contributions from everyone! Beginners and advanced developers are encouraged to participate.**
 
 <div align="center">
 
@@ -12,7 +12,8 @@
 *Create stunning GitHub profiles with beautiful templates, advanced analytics, and modern design*
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-blue?style=for-the-badge)](https://profilecraft-pro.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/profilecraft-pro/readme-generator)
+[![Live Preview (Netlify)](https://img.shields.io/badge/Live%20Preview-Netlify-brightgreen?style=for-the-badge&logo=netlify)](https://profilecraftpro.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Happyesss/ProfilReadmeGenrator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)

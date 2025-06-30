@@ -507,14 +507,14 @@ export default function ReadmePreview({ markdown }: ReadmePreviewProps) {
                                       </span>
                                     </div>
                                     <p className="text-xs text-gray-500">
-                                      GitHub stats load correctly when uploaded to GitHub
+                                      Open a new tab to see the full preview, which is free of limitations.
                                     </p>
                                   </div>
                                   <button
                                     onClick={openInNewTab}
                                     className="px-3 py-1.5 bg-blue-600 text-white text-xs rounded hover:bg-blue-700 transition-colors"
                                   >
-                                    📋 Open Full Preview
+                                   Open new tab
                                   </button>
                                 </div>
                               </div>
